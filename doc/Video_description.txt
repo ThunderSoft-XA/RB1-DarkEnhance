@@ -1,0 +1,1 @@
+This program will detect the brightness of all the images in the images, and enhance the brightness of the images with brightness less than 200. The processed images will be stored in the r_images directory. The cfg directory contains the trained model.pt file for the Zero-DCE model, and third-party_librarys contains the required third-party libraries.
