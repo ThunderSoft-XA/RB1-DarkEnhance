@@ -50,9 +50,9 @@ No special compilation method is required. After configuring the RB1 special SDK
 ## Configure and Usage
 Start the RB1 and connection RB1 to host by Type-c usb.
 ### 1. Configure
-(1) Prepare the preprocessed image and put it into the DarkEnhance executable sibling directory images.
-(2) Prepare the dynamic library files required by DarkEnhance executable programs such as libtorch.so. Place them in thrid-patry_librarys, a sibling of the directory where the DarkEnhance executable is located;
-(3)Prepare the Zero-DCE model.pt file and place it in the cfg directory, a sibling of the DarkEnhance executable.
+(1) Prepare the preprocessed image and put it into the DarkEnhance executable sibling directory images.<br>
+(2) Prepare the dynamic library files required by DarkEnhance executable programs such as libtorch.so. Place them in thrid-patry_librarys, a sibling of the directory where the DarkEnhance executable is located;<br>
+(3)Prepare the Zero-DCE model.pt file and place it in the cfg directory, a sibling of the DarkEnhance executable.<br>
 (4) Execute the DarkEnhance executable.
 
 ### 2. Usage
