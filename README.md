@@ -1,4 +1,4 @@
-# Qualcomm® QRB2210 Open Kits ImageOCR-demo Developer documentation
+# Qualcomm® QRB2210 Open Kits DarkEnhance-demo Developer documentation
 
 ## Introduce
 
@@ -71,13 +71,13 @@ cd data/exefile
 The processed image is stored in the r_images directory and the brightness of the image before and after processing is printed to the terminal.
 
 **result show**</br>
-[image1.png](./res/image1.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[r_image1.png](./res/r_image1.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[image2.png](./res/image1.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[r_image2.png](./res/r_image1.png)
+[image1.png](./res/image1.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[r_image1.png](./res/r_image1.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[image2.png](./res/image2.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[r_image2.png](./res/r_image2.png)
 
 <div style="display:flex;justify-content:space-between;;margin-top:20px;">
-  <img src="./res/english_picture.jpg" alt="Image 1" style="width:300px;margin-right:20px;" />
-  <img src="./res/english_picture_output_result.png" alt="Image 2" style="width:500px;height:250px" />
+  <img src="./res/image1.png" alt="Image 1" style="width:300px;margin-right:20px;" />
+  <img src="./res/r_image1.png" alt="r_Image 1" style="width:500px;height:250px" />
 </div>
 <div style="display:flex;justify-content:space-between;margin-top:40px;">
-  <img src="./res/chinese_picture.jpg" alt="Image 3" style="width:300px;margin-right:20px;" />
-  <img src="./res/chinese_picture_output_result.png" alt="Image 4" style="width:500px;height:250px" />
+  <img src="./res/image2.png" alt="Image 2" style="width:300px;margin-right:20px;" />
+  <img src="./res/r_image2.png" alt="r_Image 2" style="width:500px;height:250px" />
 </div>
