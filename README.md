@@ -33,7 +33,7 @@ Direct power supply for Qualcomm® QRB2210 SoC Open Kits.
 This section mainly describes the source and configuration of some open source projects or third-party tools needed in the development process.
 
 ### Opencv
-OpenCV is a cross-platform computer vision and machine learning software library distributed under the Apache2.0 license (open source).  
+OpenCV is a cross-platform computer vision and machine learning software library distributed under the Apache2.0 license (open source).  <br>
 url: https://opencv.org/
 
 ### liborch
@@ -41,7 +41,7 @@ LibTorch is a C++ library for PyTorch that provides functionality and interfaces
 url: https://github.com/pytorch/pytorch
 
 ### OpenBLAS
-OpenBLAS is an open source based on BLAS (Basic Linear Algebra Subprograms) of the standard Linear Algebra library. It provides a set of high-performance, optimized linear algebra functions, including matrix multiplication, vector operations, matrix factorization, and more.
+OpenBLAS is an open source based on BLAS (Basic Linear Algebra Subprograms) of the standard Linear Algebra library. It provides a set of high-performance, optimized linear algebra functions, including matrix multiplication, vector operations, matrix factorization, and more.<br>
 url: https://github.com/xianyi/OpenBLAS
 
 ## Compile
