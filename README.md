@@ -37,7 +37,7 @@ OpenCV is a cross-platform computer vision and machine learning software library
 url: https://opencv.org/
 
 ### liborch
-LibTorch is a C++ library for PyTorch that provides functionality and interfaces for executing PyTorch models in a C++ environment. LibTorch allows developers to use PyTorch for model training and inference without Python.
+LibTorch is a C++ library for PyTorch that provides functionality and interfaces for executing PyTorch models in a C++ environment. LibTorch allows developers to use PyTorch for model training and inference without Python.<br>
 url: https://github.com/pytorch/pytorch
 
 ### OpenBLAS
