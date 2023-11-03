@@ -62,7 +62,7 @@ The executable file under the bin directory does not need additional parameters,
 adb push ./cfg /data
 adb push ./images /data
 adb push ./thrid-patry_librarys/<libname> /lib
-adb push ./DarkEnhance /data/exefile
+adb push ./build/DarkEnhance /data/exefile
 adb shell
 cd data/exefile
 ./DarkEnhance 
